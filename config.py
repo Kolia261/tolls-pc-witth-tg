@@ -1,2 +1,3 @@
-TOKEN = "6456632705:AAFNpr9f0YeNGZNQjblhyu1tgMCcncPBjro"
-CHAT_ID = "1080165612"
+TOKEN = "ID_ToKen"
+CHAT_ID = "ID_Token"
+#P.s Я их специально скрыл, а то будут моим пк управлть всякие
